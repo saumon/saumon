@@ -1,4 +1,100 @@
-# 🐟
+# 🐟 SAUMON
+
+> **"Always against the current, but always towards the source."**
+
+```text
+                                                .:o0,
+                                             .c0MMMNNK'
+                                           ,kMMMNNNMMMMk.
+                                         ,KMMMNNMMMMMNNNWl
+                              ...'..''',KNNNXKNNNNNKNMMMMMO                                   .;o0X;
+                    .';lookXNMMMMMMWNMMMMWNWMMMMWMMWNNNNNK,..                             .;dWWNNNN:
+             .';lkNMMMMXWMMMXXMMMMMWNMMWMMNMMMMXXMMWWMMMMMMMMMNOoo;,.      ....        .:ONNNNWMWN0
+        .,cOXNNNNNNNWMMNWMMMMMMNKMMMMMXXMMMMKNMMMMMXNMMMMNKMMMMWWMMMMW0xxOXNNMW.    ':kNNNMWNNNNWM.
+    .;dNNNKKNNNWMMMMWNNMMMMNXMMMMMMMXXMMMWNWMMMMXNMMMMNNMMMMMMMNNMMMMMMMMNWMMNNkxx0XNKNXNNNWMWNNN:
+ .:XWNNNMWdlxMMMNNNMMMMXNNNNXWWWWWWWWWMMMMNMMMMMNMMMMMWWMMMMMKNMMMMKXMMMMXNMMWNWMMMMMNNWKNNNNWMMk
+ 0WKNWMMMo',.kMMMMWXMMMMKMMMMMWWWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKNNNNNMMKMKMWNNNNN.
+   .'lKNNNOxKMMMMMMNNMMMKMMMMMKWNKNNKXWKMKKMKMMMMMMMNKMMMMMMNMMMMMMWMMMMMMMWXWMMMMMMMMKMKWWMMMMM.
+:MWXOc;l0WNNNWMMMMMKMMMMKMMMMNWXNWXXWNNWNWNWMMMMMMMMMMMMMMMWNWMMMMMKNMMMMMMMNMMMMMMMMNNWKNNNNNNN:
+ 'kMMMMMMWNNNXMMMNXWMMMXXNNNNNNNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMMKMMMMMWNNXO00XNKNKKXNNNNWMW.
+   .,oKWNNNNNNNNNMMMMMXXNNNWMMMMMWWNNKMMMMMMMMMMMMMMMMMMWMMNMMMXMMKMMMWWNXKNWMM,    .c0NWWNNNWWNNO
+       .,:dONMMMMMWNNNWNNWMWNNNNNNKXNMMMNMNMMMNMMNMMMMMMKMMKMMWWMMWNNKNWMMMNNN,        .xNNWMWNNNNl
+             ..,;cKMMMMMMWNNNNNNNWMMMMMWNMKMMWNMMKMMWNNNKWMMMWOckNXNWMNNNNNNN;           .cxXNNNMMN.
+                   ..,ccx0NMMMMMMMMMMMMWMWWMMWMMMNWMMWNNNKc..    'xMWNNNWMMM,                .:cldo.
+                            ...',;:cll;;;;;;c:KNXK0NNWNXWMK        .;kWMWNk.
+                                              .WMWXXWMMMNNM'           ...
+                                               .KMNNNkNMMNNl
+                                                 ;xO;  .:lx.
+```
+
+<p align="center">
+  <a href="https://saumon.github.io/">
+    <img src="https://img.shields.io/badge/Visit_My_Port-saumon.github.io-blue?style=for-the-badge&logo=githubpages&logoColor=white" alt="Landing Page" />
+  </a>
+</p>
+
+---
+
+## 🌊 On the Surface (Overview)
+
+Developer passionate about code fluidity and resilient systems. Like the **Passage du Gois**, my work emerges where least expected, between two tides.
+
+- ⚓️ **Current Navigation:** Maintaining `gitktti` and exploring new reefs.
+- 🐚 **Favorite Currents:** Perl, Ruby, JavaScript, Python.
+- 🎣 **Philosophy:** *"Only dead fish go with the flow."* (Malcolm Muggeridge)
+
+---
+
+## 🛠 My Tackle Box (Tech Stack)
+
+<p align="left">
+  <a href="https://perl.org"><img src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white" alt="Perl" /></a>
+  <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /></a>
+  <a href="https://rubyonrails.org/"><img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" /></a>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
+</p>
+
+---
+
+## 📊 The Upstream Run (Stats)
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/saumon?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/saumon?label=Total%20Stars&style=for-the-badge&color=7aa2f7&logo=github" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Current-Upstream-blue?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Migration-Active-green?style=for-the-badge" alt="Active" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saumon&theme=tokyo-night&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saumon&theme=tokyonight&hide_border=true" height="150" alt="Streak" />
+</p>
+
+> [!TIP]
+> *If the charts above don't load, it's likely a temporary GitHub API rate limit. They usually reappear after a short swim downstream.*
+
+---
+
+## 📂 Whitewater Projects
+
+- [**gitktti**](https://saumon.github.io/gitktti/) - Perl scripts to help developers use Git Flow safely.
+- [**fr.passagedugois.app**](https://saumon.github.io/fr.passagedugois.app/) - The essential app for crossing the Gois without getting wet.
+- [**hitguessr**](https://saumon.github.io/hitguessr/) - A game to test your intuition.
+
+---
+
+<details>
+  <summary>
+    <b>🐠 See the original ASCII art (Secret Reef)</b>
+  </summary>
 
 ```text
                            ,,   ll.
@@ -85,41 +181,4 @@
          ..;.....'                            '.....,,.
 ```
 
-```text
-                                         .,;;,..            .
-                       .::::lloodxkkOOOkkkkkkOOOOOOkkkkkkkkOOOOOOkxdolc:.
-                ;:codxkO000K0OOO000O0O000OkkkkkO000KKK00OkkOOOO0KKKKXXXK0Odxkl'
-           :oxxxOKK0000OOOO0000K0kOOOO0KK0OOOO00XK000K00O0000000OOOO00000KKO00K0odl;
-          oOkkkxkkkkkkxddxxxdxkOOOkkkO0000KKKKKKK000KXNXXXXOxxKKKXNKOkxxxkO0K0KKKXXKOo
-         o000kkkxxO000OxdooodoooodxxkOO00OO00KKKKXKOkkkO0KXNNNNNNNNKKKOxxkkkOKNNNNNNNNO;
-        cxkOOkkkkxxxk0OOOOOxxoccldxkxxxkkkkOOOKXXKOOO0O00OddxOXNNNNXKKKXKkkOOOOXWNNNXXXKl
-        0K0kxxkOOkxddxdddOOkxxooodxkkxxkdkOOOkKKK0OOO0K00xdoodOOXNNXKNNNXXOxkOkkKNNNNXXXK;
-       :OK0kxkxxdddooollllldkxlllooxkkxOkddxkkOOOOOO0OO000Okk000kNNX0XNNNKKkoooxxXNNNNNNNK.
-      .0XKkkxdoddddollllclokxoollloxxxdkOOOOOOxdlllokkkkO0KOOOOkxXNNNNNNNNXXxdxkxkXKO0OXNNc
-       kXK0OkdoookdxxxkdlldxdoooddxkxxddoolldxocclclxkkxxxddxxxkkO0NNXO00NNX0dxkxx0dddooXNx
-          kkOkollloxxxoc:c::xkkOxxxxdollcccoo::lllllxkOkooooddddxxxOKkdddxKKOoxxxkKkdddkXXl
-         .dkkxddddlooc;::cc:clooooddoolokOOOkkdooooooxOlllllddddddddkddddd0KxdxdoNKXKKKKK0
-           :dodddl,,.:dkkxxOOKXKKO0XXKK0K0KKK0XXXXXXKkdl,;clxoddddddOkkkO0K0cdxl0KKKKKKK,
-            ldool:,d000K000KKKXKKNWWWWWNXXXXKXKKXNXKKOkkxc,.';coddddO00KKKk;,;'cxkOk.
-             :c;;.;k00KKNNNNXNNNXKNWWWMWNKXNNNXNXNNKXXK00Oko,...,:coO00ko;...'',;cloc'
-            'olc''KKKKKNWWWWWWWWNNXNWMMWNXNNNNNWWWWWNWWNXK0Od:,,;;,;;;;;;:llllclodxOOd.
-           .dddo.cXKK0KNWWWWWNNWWMMMMMMMWWWWWWWMMMMMWWWWXXK0xc:cccccllooooddxxxxxk00KKd
-           ckkx,'NNNXKXNNWWWMMMMMMMMMMMMMMMMMMMMMMMMWNXNWK0OOOcxxoodddkxxxxxxOO0O0KXXXX:
-           dkkk.;KXNNNWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWXXNK00KK0lkkOOO000OOOO0KKKKXXXNNNO
-          .0K0o.dOXNNNNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWNNX0KX0dOKKKKXXXXXXXXXXXXNXXXXNX.
-          .KKKl'kXKXNNWWKoc;cOWMMMMMMMMMMMMMMMKdllkNWWWWWWNKKK00dXXXXXXXXXXXXXXXXXXXXXXN:
-          .KOkc:KKKNNNWx KWO  ;WMMMMMMMMMMMMMc:XK. .OMMWWWNNX0KKdXXXXKKKKXXXXKKKKKKK0O0Ko
-          .0xxc.c00KKNW' ':.:' KMMMMMMMMMMMMN .l:.c .MMMWWNNNXK0kkKK00K00KKkddxO00OkxkkOl
-           xkxl.o0K0XNWk. ,   ;WMMMMMMMMMMMMM:  .   dMMMMMMWNNX00o000OOOOkdooooxOkoooodkc
-           lkdx.oOKKKK0Okldlo0WMXWMMMMMMMM0WMWOdo:lOXXXWMMMWNWX0KlOOOOkkkxolllodxdlooodx,
-           .xdd;c00XKkkkkkkKMMMMWOdxOOOOxkKMMMMMM0OOOOOOKWWWNNX00lkkxxxxddllllodollooodx.
-            lllckKK0K0O0O0KNWWMMMMXddkkxxWMMMMMMMKOOOOOOKWNNNXXXXcddollllccllllolooolcc;
-      .clcc:.:;;dKKKKKXWWWWNNNWMMMMWWXXWMMMMMWMMMMWNXXNWWNXXKXXX0cddoc:::cc::;;;;;::;;,
-   ,ol0KK0K0x,'''k0KKKXNNNNWNNNWMMMNWMMMMMMMMNWMMMMMMMMWWXKKKXX0ooddlc,,;:;;;;,,,,,,,'
- lxOXKOOkKKKKk'...cdKKXXXNWWWWWWWWWWMMMMMMWWMMMMMMMMMMWWXXXK0KKk;:::,'''''',;l:''',;'
-.XNKK0O00OkkOkd'....OKKXXXNNXXNNNNNNNNNWWWNNNNWWNWNNNWWNXXKK00ko;'''......,;;;,''',
-  .kOkkOk0kxodxx;...:0XKKKKXNWWWNNXXKKKXXNNNNNNXXXXNNNNNNNXK0Od:..'''',,'.,;;.
-      odolloo  oxd. .oO0KONNKKKK0OkOOO0KXX0KXXK0KK0KXXXXKKKOKk:,,,;;,.
-                           xkkd oOkkxd0K0O0O00OKK0OKKK0K0OOxc;.
-
-```
+</details>
