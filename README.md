@@ -1,6 +1,6 @@
 # 🐟 SAUMON
 
-> **"Always against the current, but always towards the source."**
+> ![Typing SVG](assets/saumon.svg)
 
 ```text
                                                 .:o0,
