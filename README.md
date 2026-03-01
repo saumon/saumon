@@ -1,6 +1,6 @@
 # 🐟 SAUMON
 
-> ![Typing SVG](assets/saumon.svg)
+> ![Typing SVG](./assets/saumon.svg)
 
 ```text
                                                 .:o0,
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://saumon.github.io/">
-    <img src="https://img.shields.io/badge/Visit_My_Port-saumon.github.io-blue?style=for-the-badge&logo=githubpages&logoColor=white" alt="Landing Page" />
+    <img src="./assets/landing_page.svg" alt="Landing Page" />
   </a>
 </p>
 
@@ -43,17 +43,31 @@ Developer passionate about code fluidity and resilient systems. Like the **Passa
 - 🐚 **Favorite Currents:** Perl, Ruby, JavaScript, Python.
 - 🎣 **Philosophy:** *"Only dead fish go with the flow."* (Malcolm Muggeridge)
 
+With a strong engineering background, I've evolved my workflow to navigate the latest technological currents. I am increasingly leveraging AI through **Spec-Driven Development (SDD)**—using precise specifications as a compass to build robust, scalable systems while focusing on high-level architecture and creative problem-solving.
+
 ---
 
 ## 🛠 My Tackle Box (Tech Stack)
 
 <p align="left">
-  <a href="https://perl.org"><img src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white" alt="Perl" /></a>
-  <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /></a>
-  <a href="https://rubyonrails.org/"><img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" /></a>
-  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
+  <!-- AI & Methodology -->
+  <img src="./assets/sdd.svg" alt="SDD" />
+  <img src="./assets/mcp.svg" alt="MCP" />
+</p>
+
+<p align="left">
+  <!-- Languages & Backend -->
+  <a href="https://www.ruby-lang.org/"><img src="./assets/ruby.svg" alt="Ruby" /></a>
+  <a href="https://rubyonrails.org/"><img src="./assets/rails.svg" alt="Ruby on Rails" /></a>
+  <a href="https://www.python.org/"><img src="./assets/python.svg" alt="Python" /></a>
+  <a href="https://perl.org/"><img src="./assets/perl.svg" alt="Perl" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="./assets/shell.svg" alt="Shell" /></a>
+  <!-- Frontend & Mobile -->
+  <a href="https://flutter.dev/"><img src="./assets/flutter.svg" alt="Flutter" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/javascript.svg" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/html5.svg" alt="HTML5" /></a>
+  <a href="https://tailwindcss.com/"><img src="./assets/tailwindcss.svg" alt="Tailwind CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/css3.svg" alt="CSS3" /></a>
 </p>
 
 ---
@@ -86,6 +100,7 @@ Developer passionate about code fluidity and resilient systems. Like the **Passa
 ## 📂 Whitewater Projects
 
 - [**gitktti**](https://saumon.github.io/gitktti/) - Perl scripts to help developers use Git Flow safely.
+- [**kommunicator**](https://saumon.github.io/kommunicator/) - Lightweight CLI and MCP server for Office 365 (Email/Teams).
 - [**fr.passagedugois.app**](https://saumon.github.io/fr.passagedugois.app/) - The essential app for crossing the Gois without getting wet.
 - [**hitguessr**](https://saumon.github.io/hitguessr/) - A game to test your intuition.
 
