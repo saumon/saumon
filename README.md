@@ -104,6 +104,8 @@ With a strong engineering background, I've evolved my workflow to navigate the l
 - [**fr.passagedugois.app**](https://saumon.github.io/fr.passagedugois.app/) - The essential app for crossing the Gois without getting wet.
 - [**hitguessr**](https://saumon.github.io/hitguessr/) - A game to test your intuition.
 - [**facthub**](https://saumon.github.io/facthub/) - Rails app serving a public JSON API of random fun facts, with an admin interface.
+- [**lockswap**](https://saumon.github.io/lockswap/) - Swap lockers with your colleagues and let facilities validate it.
+- [**fideback**](https://saumon.github.io/fideback/) - Arrive at every interview with what the team really said.
 
 ---
 
