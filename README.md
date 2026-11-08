@@ -103,6 +103,7 @@ With a strong engineering background, I've evolved my workflow to navigate the l
 - [**kommunicator**](https://saumon.github.io/kommunicator/) - Lightweight CLI and MCP server for Office 365 (Email/Teams).
 - [**fr.passagedugois.app**](https://saumon.github.io/fr.passagedugois.app/) - The essential app for crossing the Gois without getting wet.
 - [**hitguessr**](https://saumon.github.io/hitguessr/) - A game to test your intuition.
+- [**facthub**](https://saumon.github.io/facthub/) - Rails app serving a public JSON API of random fun facts, with an admin interface.
 
 ---
 
